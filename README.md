@@ -13,7 +13,7 @@
 [![Blog](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
 )](https://www.linkedin.com/in/wellyntonspagnol/)
 
-## your time is limited.
+## Your time is limited.
 
 ## Contact Linkedin
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellyntonspagnol/)
